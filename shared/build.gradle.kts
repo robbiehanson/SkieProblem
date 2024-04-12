@@ -46,7 +46,7 @@ android {
 }
 
 skie {
-    isEnabled.set(false)
+    isEnabled.set(true)
     analytics {
         disableUpload.set(true)
     }
