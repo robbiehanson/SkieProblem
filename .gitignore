@@ -1,0 +1,14 @@
+# Build
+build/
+
+# Gradle
+.gradle
+local.properties
+.gradletasknamecache
+
+# OS
+.DS_Store
+
+# XCode
+xcuserdata/
+
